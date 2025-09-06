@@ -1,0 +1,5 @@
+{
+  "name": " To-Do List",
+  "description": "A modern and sleek To-Do list application built with React, TypeScript, and Tailwind CSS. It allows users to add, complete, and delete tasks with a focus on a clean and intuitive user experience. Task data is persisted in the browser's local storage.",
+  "requestFramePermissions": []
+}
